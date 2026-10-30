@@ -5,6 +5,7 @@
 * [3. Comandos por Categoría](#3-comandos-por-categoría)
 * [4. Ejemplo Paso a Paso](#4-ejemplo-paso-a-paso)
 * [5. Recursos Adicionales](#5-recursos-adicionales)
+* [6. Diagnóstico de Red](#6-diagnóstico-de-red)
 
 ---
 ## 1. Introducción
@@ -89,3 +90,7 @@ Añadir contenido al archivo y revisarlo ejecutando ``cat notas.txt``.
 * [Tutoriales de Linux](https://youtu.be/L906Kti3gzE?si=eIHoVe9mRZQIiC9g)
 
 ---
+## 6. Diagnóstico de Red
+Comandos básicos para verificar el estado de la conexión y las interfaces en Linux:
+* **ip addr**: Muestra las direcciones IP y la configuración de las interfaces de red.
+* **ping -c 4 8.8.8.8**: Envía paquetes ICMP para comprobar la conectividad con internet.
