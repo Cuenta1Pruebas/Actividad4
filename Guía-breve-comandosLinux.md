@@ -14,10 +14,10 @@ La ***línea de comandos*** o ***terminal de Linux*** es una herramienta fundame
 ---
 ## 2. Requisitos Previos
 Para llevar a cabo las prácticas explicadas en esta guía es necesario contar con:
-* Un sistema operativo basado en Linux (*como Ubuntu o Debian*), o una máquina virtual (*VirtualBox*).
-
-* Acceso a la aplicación de Terminal (*se puede abrir con la combinación de teclas Ctrl + Alt + T en distribuciones con interfaz gráfica*). 
----
+* **Sistema Operativo:** Una distribución basada en Linux (*Ubuntu, Debian, Fedora*) o una máquina virtual (*VirtualBox, VMware*).
+* **Terminal:** Acceso a la interfaz de línea de comandos (se abre con `Ctrl + Alt + T` en entornos gráficos).
+* **Permisos:** Usuario con privilegios de administración (`sudo`) para ejecutar comandos del sistema.
+* **Editor de texto:** Visual Studio Code o un editor por consola como `nano` para la edición de archivos.
 
 ## 3. Comandos por Categoría
 **A. Navegación por el sistema de archivos**
