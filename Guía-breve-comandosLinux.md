@@ -6,6 +6,7 @@
 * [4. Ejemplo Paso a Paso](#4-ejemplo-paso-a-paso)
 * [5. Recursos Adicionales](#5-recursos-adicionales)
 * [6. Diagnóstico de Red](#6-diagnóstico-de-red)
+* [7. Gestión de Usuarios y Permisos](#7-gestión-de-usuarios-y-permisos)
 
 ---
 ## 1. Introducción
@@ -94,3 +95,9 @@ Añadir contenido al archivo y revisarlo ejecutando ``cat notas.txt``.
 Comandos básicos para verificar el estado de la conexión y las interfaces en Linux:
 * **ip addr**: Muestra las direcciones IP y la configuración de las interfaces de red.
 * **ping -c 4 8.8.8.8**: Envía paquetes ICMP para comprobar la conectividad con internet.
+
+---
+## 7. Gestión de Usuarios y Permisos
+Administrar usuarios y permisos es clave para mantener la seguridad en sistemas Linux:
+* `whoami`: Muestra el nombre del usuario con el que has iniciado sesión actual.
+* `chmod 755 archivo`: Cambia los permisos para que solo el propietario pueda modificarlo.
