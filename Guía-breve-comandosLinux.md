@@ -103,6 +103,11 @@ Administrar usuarios y permisos es clave para mantener la seguridad en sistemas 
 * `chmod 755 archivo`: Cambia los permisos para que solo el propietario pueda modificarlo.
 ---
 ## Información del proyecto
-Esta documentación se ha elaborado utilizando Markdown.
+**Esta documentación se ha elaborado utilizando Markdown.
 El control de versiones se realiza mediante Git
-y el repositorio remoto se encuentra alojado en GitHub.
+y el repositorio remoto se encuentra alojado en GitHub.**
+---
+## Próximas mejoras
+1. Crear un proyecto personal
+2. Mejorar el proyecto actual
+3. Compartir las fuentes
