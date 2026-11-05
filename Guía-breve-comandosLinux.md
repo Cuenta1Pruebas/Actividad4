@@ -101,3 +101,8 @@ Comandos básicos para verificar el estado de la conexión y las interfaces en L
 Administrar usuarios y permisos es clave para mantener la seguridad en sistemas Linux:
 * `whoami`: Muestra el nombre del usuario con el que has iniciado sesión actual.
 * `chmod 755 archivo`: Cambia los permisos para que solo el propietario pueda modificarlo.
+---
+## Información del proyecto
+Esta documentación se ha elaborado utilizando Markdown.
+El control de versiones se realiza mediante Git
+y el repositorio remoto se encuentra alojado en GitHub.
